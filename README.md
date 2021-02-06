@@ -16,16 +16,15 @@ My passion is to help people by solving complex problems. I love learning langua
 <details>
     <summary>:zap: Recent GitHub Activity</summary>
     
-    Placeholder Text
-    <!--START_SECTION:activity-->
-    <!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </details>
 
 <details>
     <summary>:zap: GitHub Stats</summary>
     
-    [![Evan's GitHub stats](https://github-readme-stats.ejplatzer.vercel.app/api?username=EjPlatzer)](https://github.com/ejplatzer/github-readme-stats)
+[![Evan's GitHub stats](https://github-readme-stats.ejplatzer.vercel.app/api?username=EjPlatzer)](https://github.com/ejplatzer/github-readme-stats)
 
 </details>
 
