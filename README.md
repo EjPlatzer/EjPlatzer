@@ -17,11 +17,11 @@ My passion is to help people by solving complex problems. I love learning langua
     <summary>:zap: Recent GitHub Activity</summary>
     
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1005](https://github.com/gordon-cs/gordon-360-ui/pull/1005) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
-2. 🗣 Commented on [#1005](https://github.com/gordon-cs/gordon-360-ui/issues/1005) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
-3. 🎉 Merged PR [#1](https://github.com/EjPlatzer/octetlet/pull/1) in [EjPlatzer/octetlet](https://github.com/EjPlatzer/octetlet)
-4. 💪 Opened PR [#1](https://github.com/EjPlatzer/octetlet/pull/1) in [EjPlatzer/octetlet](https://github.com/EjPlatzer/octetlet)
-5. 🎉 Merged PR [#1006](https://github.com/gordon-cs/gordon-360-ui/pull/1006) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+1. 💪 Opened PR [#483](https://github.com/gordon-cs/gordon-360-api/pull/483) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
+2. ❗️ Closed issue [#342](https://github.com/gordon-cs/gordon-360-ui/issues/342) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+3. ❌ Closed PR [#1005](https://github.com/gordon-cs/gordon-360-ui/pull/1005) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+4. 🗣 Commented on [#1005](https://github.com/gordon-cs/gordon-360-ui/issues/1005) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+5. 🎉 Merged PR [#1](https://github.com/EjPlatzer/octetlet/pull/1) in [EjPlatzer/octetlet](https://github.com/EjPlatzer/octetlet)
 <!--END_SECTION:activity-->
 
 </details>
