@@ -20,8 +20,8 @@ My passion is to help people by solving complex problems. I love learning langua
 1. 🗣 Commented on [#1208](https://github.com/gordon-cs/gordon-360-ui/issues/1208) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
 2. 🗣 Commented on [#1208](https://github.com/gordon-cs/gordon-360-ui/issues/1208) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
 3. 🗣 Commented on [#1208](https://github.com/gordon-cs/gordon-360-ui/issues/1208) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
-4. 🗣 Commented on [#602](https://github.com/gordon-cs/gordon-360-api/issues/602) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
-5. 🗣 Commented on [#1194](https://github.com/gordon-cs/gordon-360-ui/issues/1194) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+4. 🗣 Commented on [#1208](https://github.com/gordon-cs/gordon-360-ui/issues/1208) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+5. 🗣 Commented on [#602](https://github.com/gordon-cs/gordon-360-api/issues/602) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
 <!--END_SECTION:activity-->
 
 </details>
