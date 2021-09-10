@@ -17,11 +17,11 @@ My passion is to help people by solving complex problems. I love learning langua
     <summary>:zap: Recent GitHub Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/Macchina-CLI/macchina/issues/136) in [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
-2. 🗣 Commented on [#136](https://github.com/Macchina-CLI/macchina/issues/136) in [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
+1. 🎉 Merged PR [#1332](https://github.com/gordon-cs/gordon-360-ui/pull/1332) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+2. 💪 Opened PR [#1332](https://github.com/gordon-cs/gordon-360-ui/pull/1332) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
 3. 🗣 Commented on [#136](https://github.com/Macchina-CLI/macchina/issues/136) in [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
-4. ❗️ Opened issue [#136](https://github.com/Macchina-CLI/macchina/issues/136) in [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
-5. 🎉 Merged PR [#1217](https://github.com/gordon-cs/gordon-360-ui/pull/1217) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+4. 🗣 Commented on [#136](https://github.com/Macchina-CLI/macchina/issues/136) in [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
+5. 🗣 Commented on [#136](https://github.com/Macchina-CLI/macchina/issues/136) in [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
 <!--END_SECTION:activity-->
 
 </details>
