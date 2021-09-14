@@ -17,10 +17,10 @@ My passion is to help people by solving complex problems. I love learning langua
     <summary>:zap: Recent GitHub Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1333](https://github.com/gordon-cs/gordon-360-ui/pull/1333) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
-2. 🎉 Merged PR [#1332](https://github.com/gordon-cs/gordon-360-ui/pull/1332) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
-3. 💪 Opened PR [#1332](https://github.com/gordon-cs/gordon-360-ui/pull/1332) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
-4. 🗣 Commented on [#136](https://github.com/Macchina-CLI/macchina/issues/136) in [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
+1. 🎉 Merged PR [#1333](https://github.com/gordon-cs/gordon-360-ui/pull/1333) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+2. 💪 Opened PR [#1333](https://github.com/gordon-cs/gordon-360-ui/pull/1333) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+3. 🎉 Merged PR [#1332](https://github.com/gordon-cs/gordon-360-ui/pull/1332) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+4. 💪 Opened PR [#1332](https://github.com/gordon-cs/gordon-360-ui/pull/1332) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
 5. 🗣 Commented on [#136](https://github.com/Macchina-CLI/macchina/issues/136) in [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina)
 <!--END_SECTION:activity-->
 
