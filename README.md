@@ -17,11 +17,11 @@ My passion is to help people by solving complex problems. I love learning langua
     <summary>:zap: Recent GitHub Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#672](https://github.com/gordon-cs/gordon-360-api/pull/672) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
-2. 💪 Opened PR [#672](https://github.com/gordon-cs/gordon-360-api/pull/672) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
-3. ❗️ Opened issue [#4935](https://github.com/OmniSharp/omnisharp-vscode/issues/4935) in [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode)
-4. 🎉 Merged PR [#1422](https://github.com/gordon-cs/gordon-360-ui/pull/1422) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
-5. 🎉 Merged PR [#1421](https://github.com/gordon-cs/gordon-360-ui/pull/1421) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+1. 🎉 Merged PR [#673](https://github.com/gordon-cs/gordon-360-api/pull/673) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
+2. 💪 Opened PR [#673](https://github.com/gordon-cs/gordon-360-api/pull/673) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
+3. 🎉 Merged PR [#672](https://github.com/gordon-cs/gordon-360-api/pull/672) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
+4. 💪 Opened PR [#672](https://github.com/gordon-cs/gordon-360-api/pull/672) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
+5. ❗️ Opened issue [#4935](https://github.com/OmniSharp/omnisharp-vscode/issues/4935) in [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode)
 <!--END_SECTION:activity-->
 
 </details>
