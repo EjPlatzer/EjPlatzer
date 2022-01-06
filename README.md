@@ -17,11 +17,11 @@ My passion is to help people by solving complex problems. I love learning langua
     <summary>:zap: Recent GitHub Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1428](https://github.com/gordon-cs/gordon-360-ui/pull/1428) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
-2. 💪 Opened PR [#674](https://github.com/gordon-cs/gordon-360-api/pull/674) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
-3. 🎉 Merged PR [#673](https://github.com/gordon-cs/gordon-360-api/pull/673) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
-4. 💪 Opened PR [#673](https://github.com/gordon-cs/gordon-360-api/pull/673) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
-5. 🎉 Merged PR [#672](https://github.com/gordon-cs/gordon-360-api/pull/672) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
+1. 🎉 Merged PR [#1428](https://github.com/gordon-cs/gordon-360-ui/pull/1428) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+2. 🎉 Merged PR [#674](https://github.com/gordon-cs/gordon-360-api/pull/674) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
+3. 💪 Opened PR [#1428](https://github.com/gordon-cs/gordon-360-ui/pull/1428) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
+4. 💪 Opened PR [#674](https://github.com/gordon-cs/gordon-360-api/pull/674) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
+5. 🎉 Merged PR [#673](https://github.com/gordon-cs/gordon-360-api/pull/673) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
 <!--END_SECTION:activity-->
 
 </details>
