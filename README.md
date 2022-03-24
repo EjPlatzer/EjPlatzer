@@ -1,83 +1,43 @@
-### Hi there, I'm Evan :wave:
+## Hi there, I'm Evan :wave:
 
-## I'm a Full Stack Developer, Linguist, Follower of Jesus, and Life-long Learner
+### 👨🏻‍💻 &nbsp; About Me
+
+I'm a Full Stack Developer, Linguist, Follower of Jesus, and Life-long Learner
 
 My passion is to help people by solving complex problems. I love learning languages - natural, constructed, programming, or otherwise.
 
-## Current Projects
+### 💻 &nbsp; Current Projects
 
 -   [Gordon 360](https://360.gordon.edu) - A Student Web Portal
     -   [Frontend](https://github.com/gordon-cs/gordon-360-ui)
     -   [Backend](https://github.com/gordon-cs/gordon-360-api)
 -   [Octetlet](https://octetlet.vercel.app/) - A Chemistry Review Web App
 
----
+### 🛠 &nbsp;Tech Stack
 
-<details>
-    <summary>:zap: Recent GitHub Activity</summary>
-    
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#329](https://github.com/nushell/nushell.github.io/pull/329) in [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io)
-2. 🎉 Merged PR [#682](https://github.com/gordon-cs/gordon-360-api/pull/682) in [gordon-cs/gordon-360-api](https://github.com/gordon-cs/gordon-360-api)
-3. 🎉 Merged PR [#1452](https://github.com/gordon-cs/gordon-360-ui/pull/1452) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
-4. 🎉 Merged PR [#1456](https://github.com/gordon-cs/gordon-360-ui/pull/1456) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
-5. 💪 Opened PR [#1456](https://github.com/gordon-cs/gordon-360-ui/pull/1456) in [gordon-cs/gordon-360-ui](https://github.com/gordon-cs/gordon-360-ui)
-<!--END_SECTION:activity-->
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=flat-square&logo=typescript&logoColor=007ACC)&nbsp;
+![image](https://img.shields.io/badge/React-323330?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![image](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) &nbsp;
+![image](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) &nbsp;
+![image](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) &nbsp;
+![image](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) &nbsp;
+![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) &nbsp;
+![image](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) &nbsp;
+![image](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white) &nbsp;
+![image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp;
+![image](https://img.shields.io/badge/Rust-a72145?style=flat-square&logo=rust&logoColor=white) &nbsp;
 
-</details>
+### ⚙️ &nbsp;GitHub Analytics
 
-<details>
-    <summary>:zap: GitHub Stats</summary>
-    
-[![Evan's GitHub stats](https://github-readme-stats.ejplatzer.vercel.app/api?username=EjPlatzer)](https://github.com/ejplatzer/github-readme-stats)
+<p align="center">
+<a href="https://github.com/EjPlatzer" alt="Evan's GitHub Analytics">
+    <img height="180em" src="https://github-readme-stats-ejplatzer.vercel.app/api?username=EjPlatzer&hide=stars&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats-ejplatzer.vercel.app/api/top-langs/?username=EjPlatzer&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-</details>
-
-### Languages and Tools
-
-<details>
-    <summary>Frontend</summary>
-    <br />
-
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details>
-    <summary>Backend</summary>
-    <br/>
-
-![image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![image](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-</details>
-
-<details>
-    <summary>Developer Tooling</summary>
-    <br/>
-
-![image](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
-
-</details>
-
-<details>
-    <summary>Learning</summary>
-    <br/>
-
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-
-</details>
-
-### Connect with me
+### 🤝 Connect with me
 
 [<image alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/EjPlatzer)
 [<image alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/evanplatzer/)
