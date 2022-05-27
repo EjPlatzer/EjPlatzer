@@ -33,7 +33,7 @@ My passion is to help people by solving complex problems. I love learning langua
 <p align="center">
 <a href="https://github.com/EjPlatzer" alt="Evan's GitHub Analytics">
     <img height="180em" src="https://github-readme-stats-ejplatzer.vercel.app/api?username=EjPlatzer&hide=stars&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats-ejplatzer.vercel.app/api/top-langs/?username=EjPlatzer&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-ejplatzer.vercel.app/api/top-langs/?username=EjPlatzer&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
